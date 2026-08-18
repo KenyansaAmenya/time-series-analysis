@@ -248,5 +248,5 @@ For a more production-oriented version, consider evolving the repository into th
 This would separate data loading, feature engineering, modeling, and evaluation logic from notebook exploration.
 
 ## License
-
-No license file is currently included. Add a license before redistributing or reusing this project publicly.
+Felix Amenya
+No license file is currently included. Feel free to Clone this project and use it to learn.
